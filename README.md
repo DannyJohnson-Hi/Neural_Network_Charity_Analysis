@@ -50,5 +50,9 @@ The steps taken to try and increase model performance
 
 ## Summary 
 
-The model ended with the accuracy score of 43% after optimization. The initial neural network had an accuracy score of 71%. This loss in accuracy can be reflected by the fact that the model overfitted. I could also further optimize the neural network by removing more features or by adding more data to the dataset to increase accuracy.
+The model ended with the accuracy score of 43% after optimization. The initial neural network had an accuracy score of 71%. 
+
+This significant loss in accuracy can be reflected by the fact that the model overfitted. I could potentially further optimize the neural network by removing more features or by adding more data to the dataset to increase accuracy.
+
+
 Since my accuracy score was not particularly up to the standard with neural networks, I could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks and could have avoided the data from being overfitted. 

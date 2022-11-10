@@ -38,14 +38,13 @@ The steps taken to try and increase model performance
 
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img4.png)
 
-![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img3.png)
+![img]([https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img3.png](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img5.png))
 
 - Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to %.
 
-![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img5.png)
-
-
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img6.png)
+
+![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img7.png)
 
 ## Summary 
 

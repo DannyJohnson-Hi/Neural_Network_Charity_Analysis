@@ -34,13 +34,13 @@ The steps taken to try and increase model performance
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img2.png)
 
 
--  Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was %.
+-  Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
 
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img4.png)
 
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img5.png))
 
-- Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to %.
+- Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 43%.
 
 ![img](https://github.com/DannyJohnson-Hi/Neural_Network_Charity_Analysis/blob/main/resources/img6.png)
 
@@ -48,5 +48,5 @@ The steps taken to try and increase model performance
 
 ## Summary 
 
-The model ended with the accuracy score of ! after optimization. The initial neural network had a accuracy score of !. This loss in accuracy can be reflected by the fact that the model overfitted. I could also further optimize the neural network by removing more features or by adding more data to the dataset to increase accuracy.
+The model ended with the accuracy score of 43% after optimization. The initial neural network had an accuracy score of 71%. This loss in accuracy can be reflected by the fact that the model overfitted. I could also further optimize the neural network by removing more features or by adding more data to the dataset to increase accuracy.
 Since my accuracy score was not particularly up to the standard with neural networks, I could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks and could have avoided the data from being overfitted. 
